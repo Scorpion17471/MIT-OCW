@@ -14,11 +14,13 @@ Storage for general work following along MIT's Software Engineering degree chart
 
 Completed Courses:
 
+
 N\A
 
 
 
 Current Course:
+
 
 Introduction to Computer Science & Programming Using Python
 
@@ -26,8 +28,13 @@ Introduction to Computer Science & Programming Using Python
 
 Future Courses:
 
+
 Fundamentals of Programming
+
 Software Construction
+
 Mathematics for Computer Science
+
 Introduction to Algorithms
+
 TBD
